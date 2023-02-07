@@ -44,9 +44,17 @@ dfx canister call OceanD listItem '(principal "q4eej-kyaaa-aaaaa-aaaha-cai", 100
 dfx canister id OceanD
 ```
 
-4. Transfer NFT to OpenD:
+4. Transfer NFT to OceanD:
 
 ```
 //Change the principal id to minted NFT PrincipalID
 dfx canister call q4eej-kyaaa-aaaaa-aaaha-cai transferOwnership '(principal "rrkah-fqaaa-aaaaa-aaaaq-cai", true)'
 ```
+#Images
+<img width="1440" alt="Screenshot 2023-02-07 at 7 47 59 PM" src="https://user-images.githubusercontent.com/76945354/217270898-b8e14b94-e3ea-4737-b8c3-d8de3966a719.png">
+
+
+
+<img width="1440" alt="Screenshot 2023-02-07 at 7 48 12 PM" src="https://user-images.githubusercontent.com/76945354/217271197-f451f2c8-0058-4d72-99da-8763e131f9ff.png">
+<img width="1440" alt="Screenshot 2023-02-07 at 7 48 40 PM" src="https://user-images.githubusercontent.com/76945354/217271258-b0cdf0ab-a609-4855-8f38-ad91fcb582db.png">
+
