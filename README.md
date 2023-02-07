@@ -50,11 +50,12 @@ dfx canister id OceanD
 //Change the principal id to minted NFT PrincipalID
 dfx canister call q4eej-kyaaa-aaaaa-aaaha-cai transferOwnership '(principal "rrkah-fqaaa-aaaaa-aaaaq-cai", true)'
 ```
-#Images
-<img width="1440" alt="Screenshot 2023-02-07 at 7 47 59 PM" src="https://user-images.githubusercontent.com/76945354/217270898-b8e14b94-e3ea-4737-b8c3-d8de3966a719.png">
+# Images
+<img width="1440" alt="Screenshot 2023-02-07 at 7 34 45 PM" src="https://user-images.githubusercontent.com/76945354/217271474-e28b9535-cb28-4<img width="1440" alt="Screenshot 2023-02-07 at 7 36 59 PM 1" src="https://user-images.githubusercontent.com/76945354/217271638-c063e42d-c351-48c5-98ea-c7d762a2e<img width="1440" alt="Screenshot 2023-02-07 at 7 38 41 PM" src="https://user-images.githubusercontent.com/76945354/217271836-3836c53e-2201-4725-85e9-be3e17971465.png">
+967.png">
+f78-956c-cdd26d9d3a6b.png">
+<img width="1440" alt="Screenshot 2023-02-07 at 7 39 59 PM" src="https://user-images.githubusercontent.com/76945354/217271902-35eccc7b-f4b6-4b48-a117-251e33bff136.png">
 
 
 
-<img width="1440" alt="Screenshot 2023-02-07 at 7 48 12 PM" src="https://user-images.githubusercontent.com/76945354/217271197-f451f2c8-0058-4d72-99da-8763e131f9ff.png">
-<img width="1440" alt="Screenshot 2023-02-07 at 7 48 40 PM" src="https://user-images.githubusercontent.com/76945354/217271258-b0cdf0ab-a609-4855-8f38-ad91fcb582db.png">
 
