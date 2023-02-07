@@ -51,8 +51,15 @@ dfx canister id OceanD
 dfx canister call q4eej-kyaaa-aaaaa-aaaha-cai transferOwnership '(principal "rrkah-fqaaa-aaaaa-aaaaq-cai", true)'
 ```
 # Images
+<img width="1440" alt="Screenshot 2023-02-07 at 7 34 45 PM" src="https://user-images.githubusercontent.com/76945354/217273165-489c2b40-1998-4037-8119-7e5c5d2d94af.png">
+
+<img width="1440" alt="Screenshot 2023-02-07 at 7 36 59 PM 1" src="https://user-images.githubusercontent.com/76945354/217273282-ddc498c7-c420-4315-92ab-b1bdb775b55b.png">
+<img width="1440" alt="Screenshot 2023-02-07 at 7 38 09 PM" src="https://user-images.githubusercontent.com/76945354/217273506-f41b2fa9-28d3-4d9f-a6bd-08c41725a2c6.png">
 
 
+<img width="1440" alt="Screenshot 2023-02-07 at 7 38 41 PM" src="https://user-images.githubusercontent.com/76945354/217273434-bb6b79aa-a463-444f-985a-10a43390f5dc.png">
+
+<img width="1440" alt="Screenshot 2023-02-07 at 7 39 59 PM" src="https://user-images.githubusercontent.com/76945354/217273576-2a6327c9-702b-47d1-8c20-60431292bbda.png">
 
 
 
