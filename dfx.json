@@ -4,6 +4,10 @@
       "main": "src/OceanD/main.mo",
       "type": "motoko"
     },
+    "nft":{
+      "main": "src/NFT/nft.mo",
+      "type": "motoko"
+    },
     "OceanD_assets": {
       "dependencies": [
         "OceanD"
